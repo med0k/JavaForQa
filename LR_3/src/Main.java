@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Max commits");
         System.out.println("Test Git changes!!New changes by MAx");
         System.out.println("Kate made chnages through IDEA / lets check merge");
+        System.out.println("Some new changes from Kat");
     }
 }
