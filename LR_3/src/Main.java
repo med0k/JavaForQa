@@ -6,7 +6,6 @@ public class Main {
         System.out.println("Did somebody do home work?");
 
         // Common guys. Add your commits here.
-        System.out.println("Test Git changes by MAx");
         System.out.println("Some new changes by Kat");
     }
 }
