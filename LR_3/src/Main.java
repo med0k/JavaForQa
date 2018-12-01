@@ -8,5 +8,7 @@ public class Main {
 
         // Common guys. Add your commits here!=)!
         System.out.println("Some new changes by Kat!");
+        System.out.println("Some new changes by Kat - for pull reguest");
+
     }
 }
